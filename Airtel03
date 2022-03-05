@@ -9,14 +9,14 @@
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
    "admob_showAdStatus":"1",
    "AppID":"ca-app-pub-3558230398989562~4618279584",
-   "Admob_Banner":"ca-app-pub-3558230398989562/9321803742",
-   "Admob_Interstitial":"ca-app-pub-3558230398989562/6656111958",
-   "Admob_Native":"ca-app-pub-3558230398989562/2756395390",
-   "AppOpen":"",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "fbad_showStatus":"0",
-   "mopub_banner":"d01d1e46524f481b9fc2d977a1b02178",
-   "mopub_inter1":"07825efab3d54e72a58533171d8afa98",
-   "mopub_inter2":"07825efab3d54e72a58533171d8afa98",
-   "mopub_inter3":"07825efab3d54e72a58533171d8afa98",
-   "mopub_native":"51c205b606534a94ba359e250fec5ef9"
+   "mopub_banner":"",
+   "mopub_inter1":"",
+   "mopub_inter2":"",
+   "mopub_inter3":"",
+   "mopub_native":""
 }
